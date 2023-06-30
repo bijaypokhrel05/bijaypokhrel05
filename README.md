@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bijaypokhrel05
 - 👀 I’m interested in Data Science, Python, C/C++
 - 🌱 I’m currently studying BE in Electronic, Communication and Information Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 bijaypokhrel05/bijaypokhrel05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
