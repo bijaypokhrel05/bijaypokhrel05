@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bijaypokhrel05
+- 👋 Hi, I’m @bijaypokhrel01
 - 👀 I’m interested in Data Science, Python, C/C++
 - 🌱 I’m currently studying BE in Electronic, Communication and Information Engineering
 
