@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- 👋 Hi, I’m @bijaypokhrel05<br>👀 I’m interested in Data Science, Python, C/C++<br>🌱 I’m currently studying BE in Electronic, Communication and Information Engineering
+ 👋 Hi, I’m @bijaypokhrel05<br>👀 I’m interested in Data Science, Software Engineering, Python, and C/C++<br>🌱 I’m currently studying BE in Electronic, Communication and Information Engineering
  
 # Summary:
 I am currently pursuing a Bachelor's degree with a passion for exploring data. I love solving statistical and probability problems, working with data to discover insights, and learning cutting-edge techniques in data science, machine learning and AI.
