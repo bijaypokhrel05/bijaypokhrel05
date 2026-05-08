@@ -3,7 +3,8 @@
  👋 Hi, I’m @bijaypokhrel05<br>👀 I’m interested in Data Science, Software Engineering, Python, and C/C++<br>🌱 I have graduated with BE in Electronic, Communication and Information Engineering
  
 # Summary:
-I am currently pursuing a Bachelor's degree with a passion for exploring data. I love solving statistical and probability problems, working with data to discover insights, and learning cutting-edge techniques in data science, machine learning and AI.
+
+I am a Software Engineer with a strong focus on building scalable, efficient, and user-centric applications. I have practical experience as a React, React Native, and Full Stack developer, working across both frontend and backend systems to develop robust and maintainable software solutions. I enjoy solving problems through clean and efficient code, while continuously improving my skills in modern software development practices. Alongside this, I have a strong interest in data, statistics, and problem-solving, and I actively explore data science, machine learning, and artificial intelligence with a strong focus on AI/Data.
 ___
 
 ## 🌐 Socials:
